@@ -6,3 +6,5 @@ peach
 kiwi
 melon
 blueberry
+grape
+strawberry
